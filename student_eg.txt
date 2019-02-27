@@ -1,0 +1,3 @@
+﻿Student_number: 2016320134
+Name: KangDong-sig
+Major: ComputerScience
