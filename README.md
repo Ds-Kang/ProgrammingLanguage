@@ -1,4 +1,4 @@
 # ProgrammingLanguage
 Korea Univ. / Programming Language / Fall, 2018
 
-Basic program with Lua, Go, scala
+Basic program with Lua, Go, Scala
